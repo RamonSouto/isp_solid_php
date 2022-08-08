@@ -1,0 +1,19 @@
+{
+    "name": "ramon/isp-pratica",
+    "description": "Treinando a letra I do SOLID",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ramon\\IspPratica\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RamonSouto",
+            "email": "rdssi@hotmail.com"
+        }
+    ],
+    "require": {
+        "php":"^8.0"
+    }
+}
